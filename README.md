@@ -1,4 +1,4 @@
-# Multilabel-Sentiment-and-Emotion-Dataset-from-Indonesian-Mobile-Application-Review
+# Multilabel-Multiclass-Sentiment-and-Emotion-Dataset-from-Indonesian-Mobile-Application-Review
 **Authors**: Riccosan* & Karen E. S.
 
 ## Abstract
