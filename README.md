@@ -39,12 +39,16 @@ To access this dataset research paper in order to get a more elaborate understan
 
 ## Paper References
 1. E. Nugraheni, Indonesian Twitter Data Pre-processing for the Emotion Recognition, 2019 International Seminar on Research of Info. Tech. & Intelligent Systems (ISRITI). (2019) 58-63. Yogyakarta, Indonesia: IEEE. https://doi.org/10.1109/ISRITI48646.2019.9034653.
-2. P. R. Shaver, U. Murdaya, & R. Chris Fraley, Structure of the Indonesian Emotion Lexicon, Asian J. of Soc. Psyc. 4 (2001) 201-224. https://doi.org/10.1111/1467-839X.00086.
-3. P. Shaver, J. Schwartz, D. Kirson, & C. O'Connor, 1987. Emotion Knowledge: Further Exploration of a Prototype Approach. Journal of Personality Aid Social Psychology. 52, 6. 1061-1086. https://doi.org/10.1037//0022-3514.52.6.1061.
-4. W. G. Parrott, Emotions in social psychology: Essential readings (Eds.), Psychology Press, New York, USA, 2001.
-5. A. J. Viera & J. M. Garrett, 2005. Understanding Interobserver Agreement: The Kappa Statistic. Family Medicine. 37, 5. 360-363. PMID: 15883903.
+2. R. A. Hasan, T. Sutikno and M. A. Ismail, A Review on Big Data Sentiment Analysis Techniques, Mesopotamian Journal of Big Data. 2021 (2021) 6-13. https://doi.org/10.58496/MJBD/2021/002.
+3. Riccosan and K. E. Saputra, Multilabel Multiclass Sentiment and Emotion Dataset from Indonesian Mobile Application Review, GitHub, 2023. https://zenodo.org/badge/latestdoi/670026526.
+4. A. H. Ali, H. Kumar and P. J. Soh, Big Data Sentiment Analysis of Twitter Data, Mesopotamian Journal of Big Data, 2021 (2021) 1-5. https://doi.org/10.58496/MJBD/2021/001.
+5. N. D. Zaki, N. Y. Hashim, Y. M. Mohialden, M. A. Mohammed, T. Sutikno and A. H. Ali, A real-time big data sentiment analysis for iraqi tweets using spark streaming, Bulletin of Electrical Engineering and Informatics. 9,  4 (2020) 1411-1419. https://doi.org/10.11591/eei.v9i4.1897.
+6. P. R. Shaver, U. Murdaya, & R. Chris Fraley, Structure of the Indonesian Emotion Lexicon, Asian J. of Soc. Psyc. 4 (2001) 201-224. https://doi.org/10.1111/1467-839X.00086.
+7. P. Shaver, J. Schwartz, D. Kirson, & C. O'Connor, 1987. Emotion Knowledge: Further Exploration of a Prototype Approach. Journal of Personality Aid Social Psychology. 52, 6. 1061-1086. https://doi.org/10.1037//0022-3514.52.6.1061.
+8. W. G. Parrott, Emotions in social psychology: Essential readings (Eds.), Psychology Press, New York, USA, 2001.
+9. A. J. Viera & J. M. Garrett, 2005. Understanding Interobserver Agreement: The Kappa Statistic. Family Medicine. 37, 5. 360-363. PMID: 15883903.
 
-### Source Code DOI (Digital Object Identifier) Number by Zenodo
+### Dataset DOI (Digital Object Identifier) Number by Zenodo
 [![DOI](https://zenodo.org/badge/670026526.svg)](https://zenodo.org/badge/latestdoi/670026526) <br>
 Zenodo provided the dataset DOI for this research, which can be found at the following link: <br>
 https://zenodo.org/badge/latestdoi/670026526
