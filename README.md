@@ -46,7 +46,7 @@ To access this dataset research paper in order to get a more elaborate understan
 
 ### Source Code DOI (Digital Object Identifier) Number by Zenodo
 [![DOI](https://zenodo.org/badge/670026526.svg)](https://zenodo.org/badge/latestdoi/670026526) <br>
-Zenodo provided the DOI Source Code for this research, which can be found at the following link: <br>
+Zenodo provided the dataset DOI for this research, which can be found at the following link: <br>
 https://zenodo.org/badge/latestdoi/670026526
 
 ### Licensed
