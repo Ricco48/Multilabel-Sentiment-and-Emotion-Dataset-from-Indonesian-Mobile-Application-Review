@@ -35,7 +35,7 @@ After the data has been cleansed, Split Data (sub-process 7) is applied based on
 
 ## Additional Information
 To access this dataset research paper in order to get a more elaborate understanding, please access the DOI:
-**COMING SOON**
+**(https://doi.org/10.1016/j.dib.2023.109576)**
 
 ## Paper References
 1. E. Nugraheni, Indonesian Twitter Data Pre-processing for the Emotion Recognition, 2019 International Seminar on Research of Info. Tech. & Intelligent Systems (ISRITI). (2019) 58-63. Yogyakarta, Indonesia: IEEE. https://doi.org/10.1109/ISRITI48646.2019.9034653.
